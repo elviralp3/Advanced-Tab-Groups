@@ -1,4 +1,4 @@
-/* ==== Tab groups ==== */
+/yes /* ==== Tab groups ==== */
 /* https://github.com/Anoms12/Advanced-Tab-Groups */
 /* ====== V2.9.1s ====== */
 
